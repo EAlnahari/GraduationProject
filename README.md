@@ -37,7 +37,7 @@ A web dashboard gives supervisors a live camera feed, PPE compliance status per 
 
 | Live PPE Detection | Dashboard Overview |
 |---|---|
-| <img src="live-ppe-detection.png" width="400"/> | ![Dashboard](Dashboard-Overview.png) |
+| <img src="Live-PPE-Detection.png" width="400"/> | ![Dashboard](Dashboard-Overview.png) |
 
 ---
 
